@@ -1,0 +1,122 @@
+[
+  {
+    "id": "16ca9fbd-f463-4130-bce2-15c316d9b923",
+    "title": "You Don't Know JS Yet",
+    "author": "Kyle Simpson",
+    "genre": "JavaScript",
+    "publishedYear": 2020,
+    "userId": "364572fc-ef43-4a60-aa56-8580b5c5806c"
+  },
+  {
+    "id": "b28710b8-7aa8-4761-964f-8fb5433c4d81",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "genre": "Algorithms",
+    "publishedYear": 2009,
+    "userId": "ef9fcc66-31c6-4eb7-ac9a-94cfb25d063f"
+  },
+  {
+    "id": "fd956246-9b6a-42be-92e8-edc8cce1ca1c",
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "genre": "Python",
+    "publishedYear": 2015,
+    "userId": "ef9fcc66-31c6-4eb7-ac9a-94cfb25d063f"
+  },
+  {
+    "id": "24579a8d-b37b-4446-8f10-bff8f017d076",
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "genre": "Python",
+    "publishedYear": 2015,
+    "userId": "76b8a394-7e70-4fd7-83bd-f81e0ae4d9fa"
+  },
+  {
+    "id": "8476c186-f37d-4b97-bca6-2e523fb764c2",
+    "title": "Python Crash Course 1",
+    "author": "Eric Matthes",
+    "genre": "Python",
+    "publishedYear": 2015,
+    "userId": "364572fc-ef43-4a60-aa56-8580b5c5806c"
+  },
+  {
+    "id": "34b4cdeb-d7a9-4be3-a8d7-0e31cc89c19e",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Software Engineering",
+    "publishedYear": 2008,
+    "userId": "364572fc-ef43-4a60-aa56-8580b5c5806c"
+  },
+  {
+    "id": "b5418c76-5d4d-453e-a6cd-f2cf3503a3ee",
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "genre": "JavaScript",
+    "publishedYear": 2018,
+    "userId": "ef9fcc66-31c6-4eb7-ac9a-94cfb25d063f"
+  },
+  {
+    "id": "b6728e01-1d9f-4e92-8992-8e6aab9dc87b",
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "genre": "JavaScript",
+    "publishedYear": 2008,
+    "userId": "76b8a394-7e70-4fd7-83bd-f81e0ae4d9fa"
+  },
+  {
+    "id": "33e790b3-0f6c-4897-a97b-91a3bb1b4877",
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "genre": "Software Engineering",
+    "publishedYear": 1994,
+    "userId": "ef9fcc66-31c6-4eb7-ac9a-94cfb25d063f"
+  },
+  {
+    "id": "1917f6b7-c58b-403c-bca1-d6622171dd32",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Software Engineering",
+    "publishedYear": 1999,
+    "userId": "76b8a394-7e70-4fd7-83bd-f81e0ae4d9fa"
+  },
+  {
+    "id": "ab70f556-510f-41fd-8a1b-e6c15ce2d8e3",
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman",
+    "genre": "Software Engineering",
+    "publishedYear": 2004,
+    "userId": "364572fc-ef43-4a60-aa56-8580b5c5806c"
+  },
+  {
+    "id": "f780d1d4-72b9-4b75-9df8-4f482d401e17",
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "genre": "Interview Prep",
+    "publishedYear": 2015,
+    "userId": "ef9fcc66-31c6-4eb7-ac9a-94cfb25d063f"
+  },
+  {
+    "id": "e3c4651c-d689-459c-94ed-17f21db52c7a",
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "genre": "Software Engineering",
+    "publishedYear": 1999,
+    "userId": "364572fc-ef43-4a60-aa56-8580b5c5806c"
+  },
+  {
+    "id": "d5c52dfc-d6f3-49d7-95e3-29a13d69f0e2",
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "genre": "Java",
+    "publishedYear": 2001,
+    "userId": "76b8a394-7e70-4fd7-83bd-f81e0ae4d9fa"
+  },
+  {
+    "id": "29c2f7a4-b746-4876-bfe4-8638a3a802bb",
+    "title": "Grokking Algorithms",
+    "author": "Aditya Bhargava",
+    "genre": "Algorithms",
+    "publishedYear": 2016,
+    "userId": "ef9fcc66-31c6-4eb7-ac9a-94cfb25d063f"
+  }
+]

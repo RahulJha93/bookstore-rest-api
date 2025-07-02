@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ef9fcc66-31c6-4eb7-ac9a-94cfb25d063f",
+    "email": "user1@gamil.com",
+    "password": "$2a$10$rpPqdCCWN2q9R9NYn94i1uegWPbuD.blyfLreGO1gRff./YmhJW2G"
+  },
+  {
+    "id": "364572fc-ef43-4a60-aa56-8580b5c5806c",
+    "email": "user2@gamil.com",
+    "password": "$2a$10$tRfYmgO4j48iFnKnRWCdzOtPBk0RqX7XUvqsyldWCKL6mi.ayDY5W"
+  },
+  {
+    "id": "76b8a394-7e70-4fd7-83bd-f81e0ae4d9fa",
+    "email": "user3@gamil.com",
+    "password": "$2a$10$uv5AG/nnbt70ZtpTuYd/GeX/IvT9/kSSIkxmM.jAV.Jj/ZO.knlke"
+  }
+]
