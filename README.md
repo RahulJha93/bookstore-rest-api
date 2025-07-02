@@ -44,6 +44,7 @@ A production-level RESTful API for a Bookstore app with file-based persistence a
 
 ### API Documentation
 - Swagger UI available at [`/api-docs`](http://localhost:3000/api-docs) for interactive API docs.
+  > **Note:** This link works only after you have cloned the project, installed dependencies, and started the server locally.
 ### Auth
 - `POST /register`: Register a user
 - `POST /login`: Login and receive a JWT token
@@ -56,11 +57,37 @@ A production-level RESTful API for a Bookstore app with file-based persistence a
 - `DELETE /books/:id`: Delete a book (only creator)
 
 ## Testing
-- Use Postman or curl for API testing
-- Run automated tests:
-  ```bash
-  npm test
-  ```
+
+### Using Postman or curl
+- Import the Swagger spec (`docs/swagger.json`) into Postman for all endpoints.
+- Or use curl commands like these:
+
+#### Register a user
+```bash
+curl -X POST http://localhost:3000/register \
+  -H "Content-Type: application/json" \
+  -d '{"email":"user@example.com", "password":"password123"}'
+```
+
+#### Login and get JWT
+```bash
+curl -X POST http://localhost:3000/login \
+  -H "Content-Type: application/json" \
+  -d '{"email":"user@example.com", "password":"password123"}'
+```
+
+#### Get all books (requires JWT)
+```bash
+curl -X GET http://localhost:3000/books \
+  -H "Authorization: Bearer <your_jwt_token>"
+```
+
+- Replace `<your_jwt_token>` with the token received from the login response.
+
+### Run automated tests
+```bash
+npm test
+```
 
 ---
 
